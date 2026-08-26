@@ -72,4 +72,4 @@ Then `/reload-plugins`. The first command registers the catalog; the second inst
 
 ## License
 
-CC BY 4.0 — see [LICENSE](LICENSE). © 2026 Paul Hess.
+This skill is prose only, licensed **CC BY 4.0** — see [LICENSE](LICENSE). © 2026 Paul Hess.
