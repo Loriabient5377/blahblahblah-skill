@@ -1,0 +1,19 @@
+{
+  "name": "blahblahblah",
+  "description": "Home of the BlahBlahBlah skill: a one-word command that compresses Claude's last long response into a five-second scan.",
+  "owner": {
+    "name": "Paul Hess",
+    "email": "paul@hess.club"
+  },
+  "plugins": [
+    {
+      "name": "blahblahblah",
+      "source": "./",
+      "description": "A Claude skill that compresses Claude's own last long response into a scannable, emoji-tagged digest.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Paul Hess"
+      }
+    }
+  ]
+}

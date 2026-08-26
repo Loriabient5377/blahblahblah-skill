@@ -1,0 +1,11 @@
+{
+  "name": "blahblahblah",
+  "version": "1.0.0",
+  "description": "Type BlahBlahBlah and get Claude's last long response compressed into an emoji-tagged list you can scan in five seconds — decisions first, then risks, then what was done, produced, and suggested next.",
+  "author": {
+    "name": "Paul Hess",
+    "email": "paul@hess.club"
+  },
+  "homepage": "https://github.com/idea2go2go/blahblahblah-skill",
+  "license": "CC-BY-4.0"
+}
