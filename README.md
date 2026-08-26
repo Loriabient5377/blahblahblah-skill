@@ -7,6 +7,9 @@ seconds.**
 
 ---
 
+**When Claude tediously BlahBlahBlahs at you, just BlahBlahBlah right back.** Easy to remember,
+and emotionally satisfying!
+
 Claude wrote you six paragraphs. You need the three things in it that actually matter. Reply
 **blah blah blah** and you get them — ten minutes of tedious reading turned into one glance:
 
@@ -21,11 +24,12 @@ Claude wrote you six paragraphs. You need the three things in it that actually m
 
 No preamble, no "here's a quick summary," no closing paragraph. Just the list.
 
-## Why it's a single nonsense phrase
+## Say it however it comes out
 
-The command has to be cheaper to type than the decision to use it. Something you can mash out
-one-handed that means nothing else in any other context — so Claude never mistakes it for
-ordinary chatter, and you never have to remember the phrasing.
+The phrase means nothing else in any other context, so Claude never mistakes it for ordinary
+chatter — and you never have to remember exact phrasing. Spaced or unspaced, any capitalization,
+punctuation entirely up to your mood. `blah blah blah`, `blahblahblah`, and `BLAHBLAHBLAH!!` all
+work.
 
 ## What it pulls out
 
